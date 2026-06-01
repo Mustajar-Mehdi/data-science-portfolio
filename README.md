@@ -15,4 +15,6 @@ Data Science and Machine Learning
 (Coming soon — updating weekly)
 
 ## 📜 Certifications
-- Kaggle: Pandas ✅
+- Kaggle: Pandas ✅ 
+![Kaggle Pandas Certificate](Syed%20Mustajar%20-%20Pandas.png)
+
